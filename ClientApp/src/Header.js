@@ -10,7 +10,7 @@ export class Header extends Component {
 <Navbar>
   <Navbar.Header>
     <Navbar.Brand>
-      <a href="#home">React-Bootstrap</a>
+      <a href="#home">React-Bootstrap2</a>
     </Navbar.Brand>
   </Navbar.Header>
   <Nav>
