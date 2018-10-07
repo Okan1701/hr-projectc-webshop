@@ -19,7 +19,7 @@ export class InteractiveImageGrid extends Component {
                
               
             </ButtonToolbar>
-            <div id="div">
+            {/* <div id="div">
               <h1 id="h1">Suggested Product</h1>
             </div>
             <div id="div">
@@ -30,7 +30,7 @@ export class InteractiveImageGrid extends Component {
             </div>
             <div id="div">
               <h1 id="h1">Suggested Product</h1>
-            </div>
+            </div> */}
 
           </Col>
         </Row>
