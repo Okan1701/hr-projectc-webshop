@@ -3,6 +3,7 @@ import { Image, Grid, Row, Col } from 'react-bootstrap';
 import { Header } from './Header';
 import { InteractiveImage } from './InteractiveImage';
 import { Footer } from './Footer'
+import { InteractiveImageGrid } from './InteractiveImageGrid';
 
 export default class App extends Component {
   displayName = App.name
@@ -12,7 +13,7 @@ export default class App extends Component {
       <div>
         <Header />
 
-        <InteractiveImage />
+        <InteractiveImageGrid />
 
         <Footer />
      </div>

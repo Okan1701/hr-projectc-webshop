@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Projects\\webshop\\webshop.csproj",
+      "projectUniqueName": "C:\\Projects\\project_webshop\\webshop.csproj",
       "projectName": "webshop",
-      "projectPath": "c:\\Projects\\webshop\\webshop.csproj",
+      "projectPath": "C:\\Projects\\project_webshop\\webshop.csproj",
       "packagesPath": "C:\\Users\\geord\\.nuget\\packages\\",
-      "outputPath": "c:\\Projects\\webshop\\obj\\",
+      "outputPath": "C:\\Projects\\project_webshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
