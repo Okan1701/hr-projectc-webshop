@@ -11501,23 +11501,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\geord\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/serrgentokcan/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\project_webshop\\webshop.csproj",
+      "projectUniqueName": "/Users/serrgentokcan/Documents/GitHub/hr-projectc-webshop/webshop.csproj",
       "projectName": "webshop",
-      "projectPath": "C:\\Projects\\project_webshop\\webshop.csproj",
-      "packagesPath": "C:\\Users\\geord\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\project_webshop\\obj\\",
+      "projectPath": "/Users/serrgentokcan/Documents/GitHub/hr-projectc-webshop/webshop.csproj",
+      "packagesPath": "/Users/serrgentokcan/.nuget/packages/",
+      "outputPath": "/Users/serrgentokcan/Documents/GitHub/hr-projectc-webshop/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\geord\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/serrgentokcan/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"

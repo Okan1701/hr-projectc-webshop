@@ -35,7 +35,7 @@ export default class Searchbar extends React.Component {
             <FormControl
               type="text"
               //value={this.state.value}
-              placeholder="Search"
+              placeholder="Zoek naar producten..."
               //onChange={this.handleChange}
             />
             <FormControl.Feedback />

@@ -1,56 +1,82 @@
 import React, { Component } from 'react';
-import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+import { Image, Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
 import Searchbar from './Searchbar';
+import profiellogo from './images/profiellogo.png';
+import boatlogo from './images/boatlogo.png';
+import favorieten from './images/favorieten.png';
+import winkelmandje from './images/winkelmandje.png';
 import './index.css';
+import './header.css';
+
 
 export class Header extends Component {
   render() {
     return (
       <div>
-<Navbar>
+<Navbar id="navbar_header">
   <Navbar.Header>
     <Navbar.Brand>
-      <a href="#home">React-Bootstrap2</a>
+      <a href="#home"><Image src={boatlogo} id="logowebsite"/></a> 
     </Navbar.Brand>
   </Navbar.Header>
   <Nav>
-    <NavItem eventKey={1} href="#">
-      Link
+    <NavItem>
+      <Searchbar id="zoekfunctie" />
     </NavItem>
-    <NavItem eventKey={2} href="#">
-      Link
-    </NavItem>
-    <NavDropdown eventKey={3} title="Dropdown" id="basic-nav-dropdown">
-      <MenuItem eventKey={3.1}>Action</MenuItem>
-      <MenuItem eventKey={3.2}>Another action</MenuItem>
-      <MenuItem eventKey={3.3}>Something else here</MenuItem>
-      <MenuItem divider />
-      <MenuItem eventKey={3.4}>Separated link</MenuItem>
-    </NavDropdown>
-          <NavItem>
-            <Searchbar />
-          </NavItem>
 
+    <NavItem > 
+    <div id="inloggen">
+      <ul class="navbar-nav ml-auto"> 
+        <li id="inloggenbutton">
+          <a href="#Inloggen" id="inloggenbutton"><Image src={profiellogo}/></a>
+        </li>
+        <li id="inloggenbutton">
+          <a href="#Favorieten" id="inloggenbutton"><Image src={favorieten}/></a>
+        </li>
+        <li id="inloggenbutton">
+          <a href="#Winkelmandje" id="inloggenbutton"><Image src={winkelmandje}/></a>
+        </li>
+      </ul>
+    </div>
+    </NavItem>
   </Nav>
-
 </Navbar>
 
-        <a href=''>
-          <h2 id="h2">Category 1</h2>
-        </a>
-        <a href=''>
-          <h2 id="h2">Category 2</h2>
-        </a>
-        <a href=''>
+<Navbar id="navbar_header2">
+  <Nav>
+    <NavDropdown eventKey={1} title="Categorie 1" id="basic-nav-dropdown">
+      <MenuItem eventKey={1.1}>Onderdeel 1</MenuItem>
+      <MenuItem eventKey={1.2}>Onderdeel 2</MenuItem>
+      <MenuItem eventKey={1.3}>Onderdeel 3</MenuItem>
+      <MenuItem divider />
+      <MenuItem eventKey={1.4}>Onderdeel 1.1</MenuItem>
+      <MenuItem eventKey={1.5}>Onderdeel 1.2</MenuItem>
+    </NavDropdown>
 
-          <h2 id="h2">Category 3</h2>
-        </a>
-        <a href=''>
+    <NavDropdown eventKey={2} title="Categorie 2" id="basic-nav-dropdown">
+      <MenuItem eventKey={2.1}>Onderdeel 1</MenuItem>
+      <MenuItem eventKey={2.2}>Onderdeel 2</MenuItem>
+      <MenuItem eventKey={2.3}>Onderdeel 3</MenuItem>
+      <MenuItem divider />
+      <MenuItem eventKey={2.4}>Onderdeel 2.1</MenuItem>
+      <MenuItem eventKey={2.5}>Onderdeel 2.2</MenuItem>
+    </NavDropdown>
 
-          <h2 id="h2">Category 4</h2>
-        </a>
-
+    <NavDropdown eventKey={3} title="Categorie 3" id="basic-nav-dropdown">
+      <MenuItem eventKey={3.1}>Onderdeel 1</MenuItem>
+      <MenuItem eventKey={3.2}>Onderdeel 2</MenuItem>
+      <MenuItem eventKey={3.3}>Onderdeel 3</MenuItem>
+      <MenuItem divider />
+      <MenuItem eventKey={3.4}>Onderdeel 3.1</MenuItem>
+      <MenuItem eventKey={3.4}>Onderdeel 3.2</MenuItem>
+    </NavDropdown>
+  </Nav>
+</Navbar>
 </div>
+
+
     );
   }
 }
+
+export default Header;
