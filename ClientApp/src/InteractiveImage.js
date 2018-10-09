@@ -1,32 +1,29 @@
-//import React, { Component } from 'react';
 import React, { Component, PureComponent } from 'react';
+import './InteractiveImage.css';
 import { Image, Grid, Row, Col, Popover, ButtonToolbar, OverlayTrigger } from 'react-bootstrap';
 import boat from './images/boat.png';
 import category from './images/category.png';
 import Searchbar from './Searchbar';
 import './index.css';
-import './InteractiveImage.css';
 import Animate from 'react-move/Animate';
 import { easeExpOut } from 'd3-ease';
 import Fade from 'react-reveal/Fade';
 import Rotate from 'react-reveal/Rotate';
 import Slide from 'react-reveal/Slide';
 import { Spring } from 'react-spring'
+import classNames from 'classnames/bind';
 
-const styles = {
-  container: { height: '100%', display: 'flex', justifyContent: 'center', alignItems: 'center', willChange: 'background' },
-  shape: { width: 300, height: 300, willChange: 'transform' }
-}
 
 export class InteractiveImage extends Component {
   
   constructor(props) {
     super(props);
-    this.state = { show: false };
+    this.state = { show: true };
     this.handleClick = this.handleClick.bind(this);
   }
 
   handleClick() {
+
     this.setState({ show: !this.state.show });
   }
 
@@ -34,9 +31,24 @@ export class InteractiveImage extends Component {
 
     return (   
 
-      <div>
-<img src={category} id="image" className={this.state.show ? "slide-tl" : null} />
-        <div>
+      <div id="container">
+
+        <div id="three-container" >
+          <Image src={category} id="image" className={this.state.show ? 'slide-tl' : 'slide-tl2'} />
+        </div>
+        
+      <div id="boat">
+     
+        <Image src={boat} onClick={this.handleClick} />
+      </div>
+      
+
+      </div>
+    );
+  }
+}
+
+        {/* <div>
 
           <Fade bottom when={this.state.show}>
             <img src={category} id="image" />
@@ -54,19 +66,8 @@ export class InteractiveImage extends Component {
             <img src={category} id="image4" />
           </Fade>
           
-        </div>
+        </div> */}
 
-      <div>
-     
-        <Image src={boat} id="boat" onClick={this.handleClick} />
-          {/* { this.state.show ? 'Hide' : 'Show' } */}
-        
-      </div>
-
-      </div>
-    );
-  }
-}
 
 // export class InteractiveImage extends Component {
 
