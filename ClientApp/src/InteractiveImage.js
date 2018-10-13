@@ -40,6 +40,22 @@ export class InteractiveImage extends Component {
         <div>
           <Image src={category} id="image4" className={this.state.show ? 'slide-tl4' : 'slide-tl-reverse4'} />
         </div>
+
+        <div>
+          <Image src={category} id="image5" className={this.state.show ? 'slide-tl5' : 'slide-tl-reverse5'} />
+        </div>
+
+        <div>
+          <Image src={category} id="image6" className={this.state.show ? 'slide-tl6' : 'slide-tl-reverse6'} />
+        </div>
+
+         <div>
+          <Image src={category} id="image7" className={this.state.show ? 'slide-tl7' : 'slide-tl-reverse7'} />
+        </div>
+
+        <div>
+          <Image src={category} id="image8" className={this.state.show ? 'slide-tl8' : 'slide-tl-reverse8'} />
+        </div>
         
       <div id="boat">
      
