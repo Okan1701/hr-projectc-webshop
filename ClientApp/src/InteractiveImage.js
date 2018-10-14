@@ -5,6 +5,9 @@ import boat from './images/boat.png';
 import category from './images/category.png';
 import Searchbar from './Searchbar';
 import './index.css';
+import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom'
+import App from './App';
+import { Header } from './Header';
 
 export class InteractiveImage extends Component {
   
@@ -18,17 +21,29 @@ export class InteractiveImage extends Component {
 
     this.setState({ show: !this.state.show });
   }
-
+  
   render() {
 
     return (   
+<Router>
+<div>
+      <Route path="/cat1/"  render={() => (
+        
+        <div>
+          <Header/>
+        
+        </div>
+      )} />
 
       <div id="container">
 
+  
+
+      <Link to={'/cat1/'}>
         <div>
           <Image src={category} id="image" className={this.state.show ? 'slide-tl' : 'slide-tl-reverse'} />
         </div>
-
+        </Link>
         <div>
           <Image src={category} id="image2" className={this.state.show ? 'slide-tl2' : 'slide-tl-reverse2'} />
         </div>
@@ -61,9 +76,11 @@ export class InteractiveImage extends Component {
      
         <Image src={boat} onClick={this.handleClick} />
       </div>
-      
+
 
       </div>
+      </div>
+      </Router>
     );
   }
 }
