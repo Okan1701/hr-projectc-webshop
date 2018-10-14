@@ -448,3 +448,43 @@
         opacity: 1;
     }
 }
+
+div #wrapper{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    z-index: 10;
+}
+
+#nowrapper{
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    z-index: 10;
+}
+
+#wrapper .text {
+    position: relative;
+    visibility:hidden;
+    color: white;
+    left: 10%;
+    top: 40%;
+    z-index: 20;
+    }
+
+    .text{
+        visibility: hidden;
+    }
+    
+    #wrapper:hover .text {
+    visibility:visible;
+    }
+    .fade
+    {
+            opacity:1;
+    }
+    .fade:hover
+    {
+            opacity:0.5;
+           
+    }

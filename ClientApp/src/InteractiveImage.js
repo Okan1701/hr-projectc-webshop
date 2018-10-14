@@ -8,6 +8,9 @@ import './index.css';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom'
 import App from './App';
 import { Header } from './Header';
+import navigatie from './images/navigatie.png';
+
+
 
 export class InteractiveImage extends Component {
   
@@ -39,11 +42,13 @@ export class InteractiveImage extends Component {
 
   
 
-      <Link to={'/cat1/'}>
-        <div>
-          <Image src={category} id="image" className={this.state.show ? 'slide-tl' : 'slide-tl-reverse'} />
+      <Link to={'/cat1/'}>   
+        <div id={this.state.show ? 'wrapper' : 'nowrapper'} className={this.state.show ? 'fade' : ''}>
+          <Image src={navigatie} id="image" className={this.state.show ? 'slide-tl' : 'slide-tl-reverse'}/>
+          <p class="text">NAVIGATIE</p>
         </div>
         </Link>
+
         <div>
           <Image src={category} id="image2" className={this.state.show ? 'slide-tl2' : 'slide-tl-reverse2'} />
         </div>
