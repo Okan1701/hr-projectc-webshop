@@ -1,20 +1,48 @@
-
-#inloggen{
-    margin-left: 10px;
-   padding-left: 575px;
-}
-
 #logowebsite{
-    width: 60px;
-    height: 60px;
+    position: relative;
+    left: 30px;
+    width: 45px;
+    height: 45px;
+}
+#niffobar2{
+    border-radius: 15px;
+    background-color: aliceblue;
 }
 
-#zoekfunctie{
-    padding-left: 50%;
+
+/* alert bar */
+#berichticon{
+    color: darkgreen;
+
 }
+#alertbericht{
+    position: static;
+    background-color: whitesmoke;
+    height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 15px
+}
+#bericht1{
+    position: relative;
+    left: 10px;
+    text-align: left;
+    color: black;
+    
+}
+#bericht2{
+    position: relative;
+    left: 220px;
+    text-align: center;
+    color: black;
+    
+}
+#bericht3{
+    position: relative;
+    left: 450px;
+    text-align: right;
+    color: black;
+
+}
+/* ---------------------------- */
 
 
-#inloggenbutton{    
-    padding-left: 10px;
-    list-style-type: none;
-}

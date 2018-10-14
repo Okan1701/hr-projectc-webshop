@@ -23,9 +23,9 @@ export class InteractiveImage extends Component {
             <ButtonToolbar>
               <OverlayTrigger trigger="click" placement="right" overlay={popoverRight} >
                 <Image src={boat} />
-              </OverlayTrigger>
-              
+              </OverlayTrigger>              
             </ButtonToolbar>
+            
             <div id="div">
               <h1 id="h1">Suggested Product</h1>
             </div>

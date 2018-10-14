@@ -21,14 +21,7 @@
 
 
 
-#div2{
-    position:absolute;
-    left:0;
-    right:0;
-    height: 200px;
-    margin: 10px;
-    outline: 5px dashed black;
-}
+
 #h2{
     display:inline-block;
     margin-right: 50px;

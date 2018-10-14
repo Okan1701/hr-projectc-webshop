@@ -1,0 +1,23 @@
+#footerr{
+    
+    position:absolute;
+    left:0;
+    right:0;
+    height: 200px;
+    margin: 10px;
+    border-radius: 15px
+     }
+    
+#footerr2{
+    
+    border-radius: 15px;
+    background-color: azure;
+}
+
+#footerr3{
+    
+    position: relative;
+    height: 40px;
+    background-color: darkgray;
+    border-radius: 15px;
+}
