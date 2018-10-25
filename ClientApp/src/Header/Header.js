@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import { Navbar, Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
 import Searchbar from './Searchbar';
-import './index.css';
+import '../index.css';
 
 export class Header extends Component {
   render() {

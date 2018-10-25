@@ -1,15 +1,15 @@
 import React, { Component, PureComponent } from 'react';
 import './InteractiveImage.css';
 import { Image, Grid, Row, Col, Popover, ButtonToolbar, OverlayTrigger } from 'react-bootstrap';
-import boat from './images/boat.png';
-import category from './images/category.png';
-import Searchbar from './Searchbar';
-import './index.css';
+import boat from '../images/boat.png';
+import category from '../images/category.png';
+import Searchbar from '../Header/Searchbar';
+import '../index.css';
 import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom'
-import App from './App';
-import { Header } from './Header';
-import navigatie from './images/navigatie.png';
-import { Footer } from './Footer';
+import App from '../App';
+import { Header } from '../Header/Header';
+import navigatie from '../images/navigatie.png';
+import { Footer } from '../Footer/Footer';
 
 
 
@@ -29,15 +29,17 @@ export class InteractiveImage extends Component {
   render() {
 
     return (   
-<Router>
+
 <div>
+{/* <Router>
       <Route path="/cat1/"  render={() => (
         
         <div>
-          <Footer />
-        
+          <Header/>
+
         </div>
       )} />
+</Router> */}
 
       <div id="container">
 
@@ -45,11 +47,11 @@ export class InteractiveImage extends Component {
 
       <Link to={'/cat1/'}>   
         <div id={this.state.show ? 'wrapper' : 'nowrapper'} className={this.state.show ? 'fade' : ''}>
-          <Image src={navigatie} id="image" className={this.state.show ? 'slide-tl' : 'slide-tl-reverse'}/>
+          <Image src={navigatie} onClick={this.handleClick} id="image" className={this.state.show ? 'slide-tl' : 'slide-tl-reverse'}/>
           <p class="text">NAVIGATIE</p>
         </div>
         </Link>
-
+        
         <div>
           <Image src={category} id="image2" className={this.state.show ? 'slide-tl2' : 'slide-tl-reverse2'} />
         </div>
@@ -86,7 +88,7 @@ export class InteractiveImage extends Component {
 
       </div>
       </div>
-      </Router>
+      
     );
   }
 }
