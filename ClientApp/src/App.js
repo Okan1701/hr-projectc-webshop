@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Route } from 'react-router';
 import { Image, Grid, Row, Col } from 'react-bootstrap';
 import { Header } from './Header';
 import { InteractiveImage } from './InteractiveImage';
@@ -10,13 +11,21 @@ export default class App extends Component {
 
   render() {
     return (
-      <div>
-        {/* <Header /> */}
+    //   <div>
+    //     {/* <Header /> */}
 
-        <InteractiveImageGrid />
+    //     <InteractiveImageGrid />
 
-        {/* <Footer /> */}
-     </div>
+    //     {/* <Footer /> */}
+    //  </div>
+    <div>
+        <Route path='/' component={Header} />
+        <Route exact path='/' component={InteractiveImage} />
+        {/* <Route path='/counter' component={Counter} />
+        <Route path='/fetchdata' component={FetchData} /> */}
+    
+    </div>
+      
     );
   }
 }

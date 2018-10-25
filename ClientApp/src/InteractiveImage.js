@@ -9,6 +9,7 @@ import { BrowserRouter as Router, Route, Switch, Link } from 'react-router-dom'
 import App from './App';
 import { Header } from './Header';
 import navigatie from './images/navigatie.png';
+import { Footer } from './Footer';
 
 
 
@@ -33,7 +34,7 @@ export class InteractiveImage extends Component {
       <Route path="/cat1/"  render={() => (
         
         <div>
-          <Header/>
+          <Footer />
         
         </div>
       )} />
