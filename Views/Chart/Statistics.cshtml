@@ -3,8 +3,8 @@
     ViewData["Title"] = "Statistics";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
-<h2>Overview</h2>
-On this page, you can find statistics related to the webshop. <br />The current page is WIP and some data here may be for testing purposes only!.<br />
+<h2>Overzicht</h2>
+Op deze pagina kun je statistieken zien die gerelateerd zijn aan de producten<br />De huidige pagina is een WIP en kan testdata bevatten!<br />
 
 <div class="container">
     <div class="row">
@@ -43,7 +43,7 @@ On this page, you can find statistics related to the webshop. <br />The current 
                 var data = new google.visualization.DataTable(json);
 
                 var option = {
-                    title: 'Percentage sales of each category',
+                    title: 'Percentage verkoop van elk categorie',
                     width: 500,
                     height: 400
                 };
@@ -58,7 +58,7 @@ On this page, you can find statistics related to the webshop. <br />The current 
             $.get('GetTotalSoldData', function (jsonData) {
                 data = google.visualization.arrayToDataTable(jsonData, false);
                 var option = {
-                    title: "Total products sold since last week",
+                    title: "Totaal verkochtte producten sinds begin van het week",
                     width: 600,
                     height: 400,
                     hAxis: {

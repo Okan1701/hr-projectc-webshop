@@ -4766,11 +4766,10 @@
       ]
     },
     "IdentityServer4.AspNetIdentity/2.1.0": {
-      "sha512": "A5Od86dsgMkdjKXo489ocaxTv9WifZFK1uOMxjaFykvF74AtPPyuuGCGclAYmOeAXP4ubmuaA8MTRDyB6N1W1A==",
+      "sha512": "r1QXwLW11a4+BxTy/2GUFzAYLAulKQhMSDs/fFCai6r1oH0btv6Dw7lvDNyh8wn0oeonMQvxxzJKzLbMqYZcNw==",
       "type": "package",
       "path": "identityserver4.aspnetidentity/2.1.0",
       "files": [
-        ".signature.p7s",
         "identityserver4.aspnetidentity.2.1.0.nupkg.sha512",
         "identityserver4.aspnetidentity.nuspec",
         "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll",
@@ -12644,19 +12643,19 @@
   },
   "packageFolders": {
     "C:\\Users\\Okan Emeni\\.nuget\\packages\\": {},
-    "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Downloads\\WebstoreZip\\webStore2-master\\klaas.csproj",
+      "projectUniqueName": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
       "projectName": "klaas",
-      "projectPath": "D:\\Downloads\\WebstoreZip\\webStore2-master\\klaas.csproj",
+      "projectPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
       "packagesPath": "C:\\Users\\Okan Emeni\\.nuget\\packages\\",
-      "outputPath": "D:\\Downloads\\WebstoreZip\\webStore2-master\\obj\\",
+      "outputPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\Okan Emeni\\AppData\\Roaming\\NuGet\\NuGet.Config",

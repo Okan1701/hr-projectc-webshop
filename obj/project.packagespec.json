@@ -1,13 +1,13 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "D:\\Downloads\\WebstoreZip\\webStore2-master\\klaas.csproj",
+    "projectUniqueName": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
     "projectName": "klaas",
-    "projectPath": "D:\\Downloads\\WebstoreZip\\webStore2-master\\klaas.csproj",
-    "outputPath": "D:\\Downloads\\WebstoreZip\\webStore2-master\\obj\\",
+    "projectPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
+    "outputPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "c:\\program files\\dotnet\\sdk\\NuGetFallbackFolder"
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.1"
