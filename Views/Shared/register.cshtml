@@ -1,0 +1,28 @@
+@model klaas.Models.register
+
+<h2>Registration Page</h2>
+
+<form>
+    <div asp-validation-summary="All"></div>
+    <div>
+        <label asp-for="email"></label>
+        <input asp-for="email"/>
+        <span asp-validation-for="email"></span>
+    </div>
+    
+    <div>
+        <label asp-for="password"></label>
+        <input asp-for="password"/>
+        <span asp-validation-for="password"></span>
+    </div>
+    
+    <div>
+        <label asp-for="confirmPassword"></label>
+        <input asp-for="confirmPassword"/>
+        <span asp-validation-for="confirmPassword"></span>
+    </div>
+
+    <div>
+        <input type="submit" value="Register" asp-action="Index" asp-controller="HomeController"/>
+    </div>
+</form>

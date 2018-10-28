@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Okan Emeni\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Okan Emeni\.Rider2018.2\system\resharper-host\local\Transient\ReSharperHost\v182\SolutionCaches\_webStore2-master.-1380304074.00" t="ExcludeRecursive" />
+    <e p="D:\Downloads\WebstoreZip\webStore2-master" t="IncludeRecursive">
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="Bin" t="ExcludeRecursive" />
+      <e p="Configuration" t="Include">
+        <e p="UserRole.cs" t="Include" />
+      </e>
+      <e p="Controllers" t="Include">
+        <e p="AccountController.cs" t="Include" />
+        <e p="ApiController.cs" t="Include" />
+        <e p="ChartController.cs" t="Include" />
+        <e p="HomeController.cs" t="Include" />
+        <e p="PrivateProfileController.cs" t="Include" />
+        <e p="ProductsController.cs" t="Include" />
+        <e p="UploadFilesController.cs" t="Include" />
+        <e p="UserManagementController.cs" t="Include" />
+      </e>
+      <e p="Extensions.cs" t="Include" />
+      <e p="IoCContainer.cs" t="Include" />
+      <e p="klaas.csproj" t="IncludeRecursive" />
+      <e p="Migrations" t="Include">
+        <e p="20181006121840_InitialCreate123.cs" t="Include" />
+        <e p="20181006121840_InitialCreate123.Designer.cs" t="Include" />
+        <e p="20181008175509_ImprovedModel.cs" t="Include" />
+        <e p="20181008175509_ImprovedModel.Designer.cs" t="Include" />
+        <e p="20181008182925_ImprovedModel1.cs" t="Include" />
+        <e p="20181008182925_ImprovedModel1.Designer.cs" t="Include" />
+        <e p="20181010124546_newMacMigration.cs" t="Include" />
+        <e p="20181010124546_newMacMigration.Designer.cs" t="Include" />
+        <e p="20181012155137_identity.cs" t="Include" />
+        <e p="20181012155137_identity.Designer.cs" t="Include" />
+        <e p="20181012155444_newIdentity.cs" t="Include" />
+        <e p="20181012155444_newIdentity.Designer.cs" t="Include" />
+        <e p="20181014093810_addRolesToDatabase.cs" t="Include" />
+        <e p="20181014093810_addRolesToDatabase.Designer.cs" t="Include" />
+        <e p="20181014132256_addRolesToDatabase2.cs" t="Include" />
+        <e p="20181014132256_addRolesToDatabase2.Designer.cs" t="Include" />
+        <e p="20181026090753_InitialCreate12345.cs" t="Include" />
+        <e p="20181026090753_InitialCreate12345.Designer.cs" t="Include" />
+        <e p="20181026093500_InitialCreate123456.cs" t="Include" />
+        <e p="20181026093500_InitialCreate123456.Designer.cs" t="Include" />
+        <e p="WebshopContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="CategorySoldColName.cs" t="Include" />
+        <e p="CategorySoldColsModel.cs" t="Include" />
+        <e p="CategorySoldModel.cs" t="Include" />
+        <e p="CategorySoldRowsModel.cs" t="Include" />
+        <e p="CategorySoldValName.cs" t="Include" />
+        <e p="Context.cs" t="Include" />
+        <e p="ErrorViewModel.cs" t="Include" />
+        <e p="login.cs" t="Include" />
+        <e p="PrivateProfileModel.cs" t="Include" />
+        <e p="Products.cs" t="Include" />
+        <e p="register.cs" t="Include" />
+        <e p="UserManagementAddRole.cs" t="Include" />
+        <e p="UserManagementIndex.cs" t="Include" />
+        <e p="Users.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.1" t="Include">
+            <e p="klaas.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Account" t="Include">
+          <e p="login.cshtml" t="Include" />
+          <e p="Profile.cshtml" t="Include" />
+          <e p="register.cshtml" t="Include" />
+        </e>
+        <e p="Chart" t="Include">
+          <e p="Statistics.cshtml" t="Include" />
+        </e>
+        <e p="Home" t="Include">
+          <e p="About.cshtml" t="Include" />
+          <e p="Contact.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Mainpage.cshtml" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+          <e p="register.cshtml" t="Include" />
+        </e>
+        <e p="privateProfile" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Products" t="Include">
+          <e p="Create.cshtml" t="Include" />
+          <e p="Create2.cshtml" t="Include" />
+          <e p="Create3.cshtml" t="Include" />
+          <e p="Delete.cshtml" t="Include" />
+          <e p="Details.cshtml" t="Include" />
+          <e p="Edit.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_CookieConsentPartial.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+          <e p="register.cshtml" t="Include" />
+        </e>
+        <e p="UploadFiles" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="UserManagement" t="Include">
+          <e p="AddRole.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="Configuration" t="Include">
+          <e p="UserRole.cs" t="Include" />
+        </e>
+        <e p="css" t="Include">
+          <e p="site.css" t="Include" />
+          <e p="site.min.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="images" t="Include">
+          <e p="banner1.svg" t="Include" />
+          <e p="banner2.svg" t="Include" />
+          <e p="banner3.svg" t="Include" />
+        </e>
+        <e p="js" t="Include">
+          <e p="site.js" t="Include" />
+          <e p="site.min.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="_bower.json" t="Include" />
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap-theme.css" t="Include" />
+                <e p="bootstrap-theme.css.map" t="Include" />
+                <e p="bootstrap-theme.min.css" t="Include" />
+                <e p="bootstrap-theme.min.css.map" t="Include" />
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="fonts" t="Include">
+                <e p="glyphicons-halflings-regular.eot" t="Include" />
+                <e p="glyphicons-halflings-regular.svg" t="Include" />
+                <e p="glyphicons-halflings-regular.ttf" t="Include" />
+                <e p="glyphicons-halflings-regular.woff" t="Include" />
+                <e p="glyphicons-halflings-regular.woff2" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.min.js" t="Include" />
+                <e p="npm.js" t="Include" />
+              </e>
+            </e>
+            <e p="LICENSE" t="Include" />
+          </e>
+          <e p="jquery" t="Include">
+            <e p="_bower.json" t="Include" />
+            <e p="dist" t="Include">
+              <e p="jquery.js" t="Include" />
+              <e p="jquery.min.js" t="Include" />
+              <e p="jquery.min.map" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="jquery-validation" t="Include">
+            <e p="_bower.json" t="Include" />
+            <e p="dist" t="Include">
+              <e p="additional-methods.js" t="Include" />
+              <e p="additional-methods.min.js" t="Include" />
+              <e p="jquery.validate.js" t="Include" />
+              <e p="jquery.validate.min.js" t="Include" />
+            </e>
+            <e p="LICENSE.md" t="Include" />
+          </e>
+          <e p="jquery-validation-unobtrusive" t="Include">
+            <e p="_bower.json" t="Include" />
+            <e p="jquery.validate.unobtrusive.js" t="Include" />
+            <e p="jquery.validate.unobtrusive.min.js" t="Include" />
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
