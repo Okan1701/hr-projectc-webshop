@@ -468,3 +468,5 @@ C:/Users/Okan Emeni/RiderProjects/hr-projectc-webshop/obj/Debug/netcoreapp2.1/kl
 /Users/halim/Desktop/Okan/hr-projectc-webshop/obj/Debug/netcoreapp2.1/klaas.dll
 /Users/halim/Desktop/Okan/hr-projectc-webshop/obj/Debug/netcoreapp2.1/klaas.pdb
 /Users/halim/Desktop/Okan/hr-projectc-webshop/obj/Debug/netcoreapp2.1/klaas.csproj.CopyComplete
+/Users/halim/Desktop/Okan/hr-projectc-webshop/obj/Debug/netcoreapp2.1/Razor/Views/Products/AccessDenied.g.cshtml.cs
+/Users/halim/Desktop/Okan/hr-projectc-webshop/obj/Debug/netcoreapp2.1/Razor/Views/Account/AccessDenied.g.cshtml.cs

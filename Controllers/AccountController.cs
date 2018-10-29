@@ -69,5 +69,10 @@ namespace klaas.Controllers{
         public IActionResult AdminProfile(){
             return View();
         }
+
+         public IActionResult AccessDenied(){
+            return View();
+        }
+
     }
 }

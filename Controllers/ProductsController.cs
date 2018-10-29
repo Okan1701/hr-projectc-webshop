@@ -10,10 +10,11 @@ using klaas.Models;
 using System.Data;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
-
+using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 namespace klaas.Controllers
 {
- 
+    [Authorize (Roles = "Admin")]
     public class ProductsController : Controller
     {
         private readonly WebshopContext _context;
@@ -165,8 +166,7 @@ namespace klaas.Controllers
         }
 
 
-
-
+       
        
 
         // POST: Products/Create
