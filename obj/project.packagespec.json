@@ -1,0 +1,86 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
+    "projectName": "klaas",
+    "projectPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
+    "outputPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "IdentityServer4.AspNetIdentity": {
+          "target": "Package",
+          "version": "[2.1.0, )"
+        },
+        "Microsoft.AspNetCore": {
+          "target": "Package",
+          "version": "[2.1.4, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Authentication": {
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.AspNetCore.Authentication.Cookies": {
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Microsoft.IdentityModel.Protocols.OpenIdConnect": {
+          "target": "Package",
+          "version": "[5.2.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.Owin.Security.Cookies": {
+          "target": "Package",
+          "version": "[4.0.0, )"
+        },
+        "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+          "target": "Package",
+          "version": "[2.2.0-preview2-35157, )"
+        },
+        "Npgsql.EntityFrameworkCore.PostgreSQL": {
+          "target": "Package",
+          "version": "[2.2.0-preview1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

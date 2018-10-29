@@ -1,0 +1,30 @@
+@model klaas.Models.login
+
+<h2>LogIn Page</h2>
+
+<form method="POST" asp-action="Login" asp-controller="Account" >
+     <div asp-validation-summary="All"></div>
+
+    <div>
+        <label asp-for="Email"></label>
+        <input asp-for="Email"/>
+        <span asp-validation-for="Email"></span>
+    </div>
+
+    <div>
+        <label asp-for="Password"></label>
+        <input asp-for="Password"/>
+        <span asp-validation-for="Password"></span>
+    </div>
+
+     <div>
+        <label asp-for="RememberMe"></label>
+        <input asp-for="RememberMe"/>
+        <span asp-validation-for="RememberMe"></span>
+    </div>
+
+    <div>
+       <div><p><input type="submit" value="LogIn" /></p> <p><a asp-action="Register">Or Register</a></p></div> 
+    </div>
+
+</form>

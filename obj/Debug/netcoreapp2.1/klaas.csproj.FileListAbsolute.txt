@@ -1,0 +1,420 @@
+C:/Users/Wanne/Documents/klaas/bin/Debug/netcoreapp2.1/klaas.deps.json
+C:/Users/Wanne/Documents/klaas/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.json
+C:/Users/Wanne/Documents/klaas/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.dev.json
+C:/Users/Wanne/Documents/klaas/bin/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/klaas/bin/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/klaas/bin/Debug/netcoreapp2.1/klaas.Views.dll
+C:/Users/Wanne/Documents/klaas/bin/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.csprojAssemblyReference.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.csproj.CoreCompileInputs.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.AssemblyInfoInputs.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.AssemblyInfo.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.TagHelpers.input.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.TagHelpers.output.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.RazorCoreGenerate.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cache
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/klaas.csproj.CopyComplete
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Products/Delete.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas/obj/Debug/netcoreapp2.1/Razor/Views/UploadFiles/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/bin/Debug/netcoreapp2.1/klaas.deps.json
+C:/Users/Wanne/Documents/klaas - kopie/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.json
+C:/Users/Wanne/Documents/klaas - kopie/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.dev.json
+C:/Users/Wanne/Documents/klaas - kopie/bin/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/klaas - kopie/bin/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/klaas - kopie/bin/Debug/netcoreapp2.1/klaas.Views.dll
+C:/Users/Wanne/Documents/klaas - kopie/bin/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.csprojAssemblyReference.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.csproj.CoreCompileInputs.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.AssemblyInfoInputs.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.AssemblyInfo.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.TagHelpers.input.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.TagHelpers.output.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.RazorCoreGenerate.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Delete.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/UploadFiles/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cache
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cs
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/klaas.csproj.CopyComplete
+C:/Users/Wanne/Documents/klaas - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create2.g.cshtml.cs
+/Users/halim/Desktop/database/bin/Debug/netcoreapp2.1/klaas.deps.json
+/Users/halim/Desktop/database/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.json
+/Users/halim/Desktop/database/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.dev.json
+/Users/halim/Desktop/database/bin/Debug/netcoreapp2.1/klaas.dll
+/Users/halim/Desktop/database/bin/Debug/netcoreapp2.1/klaas.pdb
+/Users/halim/Desktop/database/bin/Debug/netcoreapp2.1/klaas.Views.dll
+/Users/halim/Desktop/database/bin/Debug/netcoreapp2.1/klaas.Views.pdb
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.csprojAssemblyReference.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.csproj.CoreCompileInputs.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.AssemblyInfoInputs.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.AssemblyInfo.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.TagHelpers.input.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.TagHelpers.output.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.RazorCoreGenerate.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create2.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Products/Delete.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/UploadFiles/Index.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cache
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.Views.pdb
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.dll
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.pdb
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/klaas.csproj.CopyComplete
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Account/register.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Home/register.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Shared/register.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Account/login.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/privateProfile/index.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/Account/Profile.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/AddRole.g.cshtml.cs
+/Users/halim/Desktop/database/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.csprojAssemblyReference.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.csproj.CoreCompileInputs.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.AssemblyInfoInputs.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.AssemblyInfo.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.TagHelpers.input.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.TagHelpers.output.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.RazorCoreGenerate.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Account/login.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Account/Profile.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Account/register.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Home/register.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/privateProfile/index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create2.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Products/Delete.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Shared/register.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/UploadFiles/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/AddRole.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cache
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cs
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/WebStore-master/bin/Debug/netcoreapp2.1/klaas.deps.json
+C:/Users/Wanne/Documents/WebStore-master/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.json
+C:/Users/Wanne/Documents/WebStore-master/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.dev.json
+C:/Users/Wanne/Documents/WebStore-master/bin/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/WebStore-master/bin/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/WebStore-master/bin/Debug/netcoreapp2.1/klaas.Views.dll
+C:/Users/Wanne/Documents/WebStore-master/bin/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/WebStore-master/obj/Debug/netcoreapp2.1/klaas.csproj.CopyComplete
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.csprojAssemblyReference.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.csproj.CoreCompileInputs.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.AssemblyInfoInputs.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.AssemblyInfo.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.TagHelpers.input.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.TagHelpers.output.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.RazorCoreGenerate.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Account/login.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Account/Profile.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Account/register.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/register.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/privateProfile/index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create2.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create3.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Delete.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/register.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/UploadFiles/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/AddRole.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/Index.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cache
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cs
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/WebStore-master - kopie/bin/Debug/netcoreapp2.1/klaas.deps.json
+C:/Users/Wanne/Documents/WebStore-master - kopie/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.json
+C:/Users/Wanne/Documents/WebStore-master - kopie/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.dev.json
+C:/Users/Wanne/Documents/WebStore-master - kopie/bin/Debug/netcoreapp2.1/klaas.dll
+C:/Users/Wanne/Documents/WebStore-master - kopie/bin/Debug/netcoreapp2.1/klaas.pdb
+C:/Users/Wanne/Documents/WebStore-master - kopie/bin/Debug/netcoreapp2.1/klaas.Views.dll
+C:/Users/Wanne/Documents/WebStore-master - kopie/bin/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.Views.pdb
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/klaas.csproj.CopyComplete
+C:/Users/Wanne/Documents/WebStore-master - kopie/obj/Debug/netcoreapp2.1/Razor/Views/Home/Mainpage.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.csprojAssemblyReference.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.csproj.CoreCompileInputs.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.RazorAssemblyInfo.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.AssemblyInfoInputs.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.AssemblyInfo.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.TagHelpers.input.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.TagHelpers.output.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.RazorCoreGenerate.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Account/login.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Account/Profile.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Account/register.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Chart/Statistics.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Home/Mainpage.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Home/register.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/privateProfile/index.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create2.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Products/Create3.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Products/Delete.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Products/Details.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Products/Edit.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Products/Index.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Shared/register.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/UploadFiles/Index.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/AddRole.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/UserManagement/Index.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cache
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.RazorTargetAssemblyInfo.cs
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.dll
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.pdb
+/Users/halim/Desktop/WebStore/bin/Debug/netcoreapp2.1/klaas.deps.json
+/Users/halim/Desktop/WebStore/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.json
+/Users/halim/Desktop/WebStore/bin/Debug/netcoreapp2.1/klaas.runtimeconfig.dev.json
+/Users/halim/Desktop/WebStore/bin/Debug/netcoreapp2.1/klaas.dll
+/Users/halim/Desktop/WebStore/bin/Debug/netcoreapp2.1/klaas.pdb
+/Users/halim/Desktop/WebStore/bin/Debug/netcoreapp2.1/klaas.Views.dll
+/Users/halim/Desktop/WebStore/bin/Debug/netcoreapp2.1/klaas.Views.pdb
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.Views.pdb
+/Users/halim/Desktop/WebStore/obj/Debug/netcoreapp2.1/klaas.csproj.CopyComplete
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.csprojAssemblyReference.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.csproj.CoreCompileInputs.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorAssemblyInfo.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorAssemblyInfo.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.AssemblyInfoInputs.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.AssemblyInfo.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.TagHelpers.input.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.TagHelpers.output.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorCoreGenerate.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Account\login.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Account\register.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Chart\Statistics.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Mainpage.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\register.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\privateProfile\index.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create2.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create3.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\register.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\UploadFiles\Index.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\AddRole.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\Index.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorTargetAssemblyInfo.cache
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorTargetAssemblyInfo.cs
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.dll
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.pdb
+C:\Users\Wanne\Documents\webStore2-master\bin\Debug\netcoreapp2.1\klaas.deps.json
+C:\Users\Wanne\Documents\webStore2-master\bin\Debug\netcoreapp2.1\klaas.runtimeconfig.json
+C:\Users\Wanne\Documents\webStore2-master\bin\Debug\netcoreapp2.1\klaas.runtimeconfig.dev.json
+C:\Users\Wanne\Documents\webStore2-master\bin\Debug\netcoreapp2.1\klaas.dll
+C:\Users\Wanne\Documents\webStore2-master\bin\Debug\netcoreapp2.1\klaas.pdb
+C:\Users\Wanne\Documents\webStore2-master\bin\Debug\netcoreapp2.1\klaas.Views.dll
+C:\Users\Wanne\Documents\webStore2-master\bin\Debug\netcoreapp2.1\klaas.Views.pdb
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.Views.pdb
+C:\Users\Wanne\Documents\webStore2-master\obj\Debug\netcoreapp2.1\klaas.csproj.CopyComplete
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.csprojAssemblyReference.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.csproj.CoreCompileInputs.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorAssemblyInfo.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorAssemblyInfo.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.AssemblyInfoInputs.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.AssemblyInfo.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.TagHelpers.input.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.TagHelpers.output.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorCoreGenerate.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Account\login.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Account\register.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Chart\Statistics.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Mainpage.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Home\register.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\privateProfile\index.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create2.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create3.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\register.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\UploadFiles\Index.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\AddRole.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\Index.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorTargetAssemblyInfo.cache
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.RazorTargetAssemblyInfo.cs
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.dll
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.pdb
+D:\Downloads\WebstoreZip\webStore2-master\bin\Debug\netcoreapp2.1\klaas.deps.json
+D:\Downloads\WebstoreZip\webStore2-master\bin\Debug\netcoreapp2.1\klaas.runtimeconfig.json
+D:\Downloads\WebstoreZip\webStore2-master\bin\Debug\netcoreapp2.1\klaas.runtimeconfig.dev.json
+D:\Downloads\WebstoreZip\webStore2-master\bin\Debug\netcoreapp2.1\klaas.dll
+D:\Downloads\WebstoreZip\webStore2-master\bin\Debug\netcoreapp2.1\klaas.pdb
+D:\Downloads\WebstoreZip\webStore2-master\bin\Debug\netcoreapp2.1\klaas.Views.dll
+D:\Downloads\WebstoreZip\webStore2-master\bin\Debug\netcoreapp2.1\klaas.Views.pdb
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.Views.pdb
+D:\Downloads\WebstoreZip\webStore2-master\obj\Debug\netcoreapp2.1\klaas.csproj.CopyComplete
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\bin\Debug\netcoreapp2.1\klaas.deps.json
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\bin\Debug\netcoreapp2.1\klaas.runtimeconfig.json
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\bin\Debug\netcoreapp2.1\klaas.runtimeconfig.dev.json
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\bin\Debug\netcoreapp2.1\klaas.dll
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\bin\Debug\netcoreapp2.1\klaas.pdb
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\bin\Debug\netcoreapp2.1\klaas.Views.dll
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\bin\Debug\netcoreapp2.1\klaas.Views.pdb
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.csprojAssemblyReference.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.csproj.CoreCompileInputs.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.RazorAssemblyInfo.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.RazorAssemblyInfo.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.AssemblyInfoInputs.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.AssemblyInfo.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.TagHelpers.input.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.TagHelpers.output.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.RazorCoreGenerate.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Account\login.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Account\Profile.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Account\register.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Chart\Statistics.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Mainpage.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Home\register.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\privateProfile\index.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create2.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create3.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\register.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\UploadFiles\Index.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\AddRole.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\Index.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.RazorTargetAssemblyInfo.cache
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.RazorTargetAssemblyInfo.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.Views.pdb
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.dll
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.pdb
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.csproj.CopyComplete
