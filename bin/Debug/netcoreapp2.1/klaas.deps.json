@@ -1355,7 +1355,7 @@
         "runtime": {
           "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
             "assemblyVersion": "4.0.4.1",
-            "fileVersion": "4.6.26919.2"
+            "fileVersion": "4.0.0.0"
           }
         },
         "compile": {
@@ -3800,14 +3800,14 @@
     "IdentityModel/3.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-xsX27Ziify9XiBn5NqR0iKfjflp7O3WxoxlZlkrdyEkBi6WKtAhLjzxPh9MxeJLXRQNaW97IketDMM7FzxejjQ==",
+      "sha512": "sha512-EKMOOUUqDzBR3goiA8eWJ1aQBz1AMfKVxxR7XnzAf5qq2k9vr6GT91SyHmzC14KINpNNJOrbmowXf5S04gQ0ZA==",
       "path": "identitymodel/3.0.0",
       "hashPath": "identitymodel.3.0.0.nupkg.sha512"
     },
     "IdentityServer4/2.1.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Kaowh5lQMn1HcrMDNFJTTyEtYOOv/IrWMViu82YcDHg4uexToH+8OQaeB80uNGxAIDt+jKJkxwyYIIY7jrvyWg==",
+      "sha512": "sha512-SeSGMMAT/FEnir5zxDrdDvenxtuPVAxTAUNYtYjVl40sAKsjwJJ9GE9kSv9QI3trU8vLft5ApRFQhOYAt6Itug==",
       "path": "identityserver4/2.1.1",
       "hashPath": "identityserver4.2.1.1.nupkg.sha512"
     },
@@ -4199,7 +4199,7 @@
     "Owin/1.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-S87+AKxSxfhXRzIQfm6WBxfGbnzECLG8bmVp3lRiwjeYG9YBJ0AXd+2Xn7I7aqwwj0j4erSpX6H9OhXy+qQ7tw==",
+      "sha512": "sha512-OseTFniKmyp76mEzOBwIKGBRS5eMoYNkMKaMXOpxx9jv88+b6mh1rSaw43vjBOItNhaLFG3d0a20PfHyibH5sw==",
       "path": "owin/1.0.0",
       "hashPath": "owin.1.0.0.nupkg.sha512"
     },
@@ -4297,7 +4297,7 @@
     "System.Interactive.Async/3.2.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-T3nigy9yShklMyVu7I2TvlVMRy2vUn9oQeBaRy0KZcOptyy+rUbekYaXxoa3s0h2tWT3UVtzrGkQC89CBbCtlg==",
+      "sha512": "sha512-oaK7GqF8/ORnipYZck5ec+eKgvfZFShH64CWFlYB8Mpnr8/e99klLSk9SsmnaDzr9n2X672sUU8ZCLLrq8leDw==",
       "path": "system.interactive.async/3.2.0",
       "hashPath": "system.interactive.async.3.2.0.nupkg.sha512"
     },
