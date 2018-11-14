@@ -11,7 +11,13 @@ public class Products
     public string Title { get; set; }
     public double Price { get; set; }
     public List<Extra_Atributes> Extra_Atributes { get; set; }
-  }
+    }
+   public class Item
+    {
+        public Productwaarde Product { get; set; }
+
+        public int Quantity { get; set; }
+    }
 
 public class Extra_Atributes
   {
