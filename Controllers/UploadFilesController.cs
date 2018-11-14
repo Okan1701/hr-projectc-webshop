@@ -52,15 +52,35 @@ namespace Controllers
                         // the file is reached.
                         while ((line = reader.ReadLine()) != null) 
                         {
-                            string[] record = line.Split(';');
-                                Products m = new Products
-                                {
-                                    Title = record[0],
-                                    Price = Convert.ToDouble(record[1])
-                                };
-                            _context.Products.Add(m);
+                            string[] total = line.Split(';');
+                            int id = 0;
+                            
+                            foreach(string i in total){
+                                var record = i.Split(new string[] { "," }, StringSplitOptions.None);
+                                string productss = record[0].ToString();
+
+                                var query = from a in _context.Productsoort where a.Naam == productss select a;
+                                foreach (var q in query){
+                                    id = q.Id;
+                                }
+                                var productid = id;
+
+                                var title = record[1].ToString();
+
+                                var price = Convert.ToDouble(record[2]);
+
+                                Productwaarde productwaarde = new Productwaarde{
+                                Title = title,
+                                Price = price,
+                                ProductsoortId = productid
+                            };
+
+                            _context.Productwaarde.Add(productwaarde);
+                            _context.SaveChanges();
+                            }
+                            
+                            
                         }
-                    _context.SaveChanges();
                     }
                 
             ViewData["Message"] = output;

@@ -30,7 +30,7 @@ namespace klaas
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<WebshopContext>(
-                 opt => opt.UseNpgsql(@"Host=localhost;Database=MovieDB1234;Username=postgres;Password=1.Halimsd"));
+                 opt => opt.UseNpgsql(@"Host=localhost;Database=NEWDB;Username=postgres;Password=wanne"));
 
             services.AddIdentity<Users, IdentityRole>()
             .AddEntityFrameworkStores<WebshopContext>()
