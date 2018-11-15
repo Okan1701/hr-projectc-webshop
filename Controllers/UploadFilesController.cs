@@ -101,10 +101,10 @@ namespace Controllers
                                 }
                              var extraatributenarray = extrattributen.ToArray();
                             
-
+                            var productwid = 0;
                             var productwaardequery = from a in _context.Productwaarde where a.Title == title select a;
-                                foreach (var q in query){
-                                    id = q.Id;
+                                foreach (var q in productwaardequery){
+                                    productwid = q.Id;
                                 }
 
                                 var attributenid = new List<int>();
@@ -118,7 +118,7 @@ namespace Controllers
 
                              for (int index = 0; index < atributenidarray.Length; index++){
                               Attribuutwaarde attribuutwaarde = new Attribuutwaarde{
-                                  ProductwaardeId = id,
+                                  ProductwaardeId = productwid,
                                   AttribuutsoortId = atributenidarray[index],
                                   Waarde = extraatributenarray[index]
                               };
