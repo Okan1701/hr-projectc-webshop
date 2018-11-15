@@ -11,53 +11,56 @@
 
 
 
-
- <script type='text/javascript'>
-        function addFields(){
-           var Attribute = [];
-           var AttribuutsoortIDs = [];
-           var productsoortidd = @productsoortid;  
+@section Scripts
+{
+    <script type='text/javascript'>
+        function addFields() {
+            var Attribute = [];
+            var AttribuutsoortIDs = [];
+            var productsoortidd = @productsoortid;  
            
 
             @foreach (var d in Attributen)
-             {
+            {
                 @:Attribute.push("@d");
             }
 
-             @foreach (var d in AttribuutsoortID)
-             {
+            @foreach (var d in AttribuutsoortID)
+            {
                 @:AttribuutsoortIDs.push("@d");
             }
 
-            for (i = 0; i <  Attribute.length; i++) { 
-            var container = document.getElementById("container");
+            for (i = 0; i < Attribute.length; i++) {
+                var container = document.getElementById("container");
                 container.appendChild(document.createTextNode(Attribute[i]));
 
                 var input = document.createElement("input");
-                input.name= "Attribuutwaarde["+i+"].waarde";
-                input.setAttribute("class","form-control");
-                input.id= "Attribuutwaarde["+i+"].waarde";
-                input.type="text";
-                input.value="";
-                input.placeholder="Attribuut";
+                input.name = "Attribuutwaarde[" + i + "].waarde";
+                input.setAttribute("class", "form-control");
+                input.id = "Attribuutwaarde[" + i + "].waarde";
+                input.type = "text";
+                input.value = "";
+                input.placeholder = "Attribuut";
 
                 var input1 = document.createElement("input");
-                input1.name= "Attribuutwaarde["+i+"].AttribuutsoortId";
-                input1.setAttribute("class","form-control");
-                input1.id= "Attribuutwaarde["+i+"].AttribuutsoortId";
-                input1.type="hidden";
-                input1.value= AttribuutsoortIDs[i];
-                input1.placeholder="Attribuut";
+                input1.name = "Attribuutwaarde[" + i + "].AttribuutsoortId";
+                input1.setAttribute("class", "form-control");
+                input1.id = "Attribuutwaarde[" + i + "].AttribuutsoortId";
+                input1.type = "hidden";
+                input1.value = AttribuutsoortIDs[i];
+                input1.placeholder = "Attribuut";
 
-               
+
                 container.appendChild(input);
                 container.appendChild(input1);
                 // Append a line break 
                 container.appendChild(document.createElement("br"));
             }
         }
+
         window.onload = addFields;
     </script>
+}
 
 <h2>Create</h2>
 
@@ -96,7 +99,5 @@
     <a asp-action="Index">Back to List</a>
 </div>
 
-@section Scripts {
-    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 
-}

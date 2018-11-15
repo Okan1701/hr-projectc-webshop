@@ -464,6 +464,7 @@ C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Ra
 C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\UploadFiles\Index.g.cshtml.cs
 C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\AddRole.g.cshtml.cs
 C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\UserManagement\Index.g.cshtml.cs
+C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\ViewProduct\Index.g.cshtml.cs
 C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
 C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Okan Emeni\RiderProjects\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.RazorTargetAssemblyInfo.cache
