@@ -522,3 +522,4 @@ C:\Users\Wanne\Documents\githubhalim\hr-projectc-webshop\obj\Debug\netcoreapp2.1
 C:\Users\Wanne\Documents\githubhalim\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.dll
 C:\Users\Wanne\Documents\githubhalim\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.pdb
 C:\Users\Wanne\Documents\githubhalim\hr-projectc-webshop\obj\Debug\netcoreapp2.1\klaas.csproj.CopyComplete
+C:\Users\Wanne\Documents\githubhalim\hr-projectc-webshop\obj\Debug\netcoreapp2.1\Razor\Views\UploadFiles\Create4.g.cshtml.cs

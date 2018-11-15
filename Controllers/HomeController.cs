@@ -31,6 +31,16 @@ namespace klaas.Controllers
         }
         public IActionResult Index()
         {
+            var myList = new List<string>();
+            var productsoorten = from m in _context.Productsoort select new {m.Naam};
+            
+            
+            foreach (var product in productsoorten){
+                myList.Add(product.ToString());
+                Console.WriteLine(product.Naam);
+            }
+            var myArray = myList.ToArray();
+            ViewData["productsoorten"] =  myArray;
             var result =  from m in _context.Productwaarde select m;
             return View("Mainpage",result);
         }
@@ -42,20 +52,57 @@ namespace klaas.Controllers
             return View();
         }
 
-          public IActionResult Mainpage()
+         public IActionResult Mainpage()
         {
+            var myList = new List<string>();
+            var productsoorten = from m in _context.Productsoort select new {m.Naam};
+            
+            
+            foreach (var product in productsoorten){
+                myList.Add(product.ToString());
+                Console.WriteLine(product.Naam);
+            }
+            var myArray = myList.ToArray();
+            ViewData["productsoorten"] =  myArray;
             var result =  from m in _context.Productwaarde select m;
             return View(result);
         }
 
+        // POST: Products/Create
+        // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
+        // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
-         
-         public IActionResult Mainpage(string hi)
+        [ValidateAntiForgeryToken]
+        public IActionResult Mainpage(string hi)
         {
-            
-            var result =  from m in _context.Productwaarde select m;
-            return View(result);
+            var myList = new List<string>();
+            var productsoorten = from m in _context.Productsoort select new {m.Naam};
+            foreach (var product in productsoorten){
+                myList.Add(product.ToString());
+                Console.WriteLine(product.Naam);
+            }
+            var myArray = myList.ToArray();
+            ViewData["productsoorten"] =  myArray;
+             if (hi == null)
+            {
+                var productwaardenq =  from m in _context.Productwaarde select m;
+                return View(productwaardenq);
+            }
+            else if (hi == "select all"){
+                var productwaardenq =  from m in _context.Productwaarde select m;
+                return View(productwaardenq);
+            }
+            else{
+            var productsoortid = 0;
+            var productsoortidq = from m in _context.Productsoort where m.Naam == hi select m;
+            foreach (var product in productsoortidq){
+               productsoortid = product.Id;
+            }
+            var productwaardenq =  from m in _context.Productwaarde where productsoortid == m.ProductsoortId select m;
+            return View(productwaardenq);
+            }
         }
+
 
         public IActionResult Contact()
         {

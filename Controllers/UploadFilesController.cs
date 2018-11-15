@@ -22,6 +22,16 @@ namespace Controllers
         {
             return View();
         }
+
+        
+
+
+
+
+
+
+
+
         #region snippet1
         [HttpPost("UploadFiles")]
         public async Task<IActionResult> index(IFormFile files)
