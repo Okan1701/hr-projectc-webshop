@@ -64,17 +64,23 @@ namespace Controllers
                         {
                             string[] total = line.Split(';');
                             int id = 0;
-                            
+                
                             foreach(string i in total){
                                 var record = i.Split(new string[] { "," }, StringSplitOptions.None);
+                              
+                                //productsoortnaam
                                 string productss = record[0].ToString();
 
-                                var query = from a in _context.Productsoort where a.Naam == productss select a;
+                                //productsoortidquery
+                               var query = from a in _context.Productsoort where a.Naam == productss select a;
                                 foreach (var q in query){
                                     id = q.Id;
                                 }
-                                var productid = id;
+                                
+                                //productsoortid
+                                var productsid = id;
 
+                                
                                 var title = record[1].ToString();
 
                                 var price = Convert.ToDouble(record[2]);
@@ -82,11 +88,43 @@ namespace Controllers
                                 Productwaarde productwaarde = new Productwaarde{
                                 Title = title,
                                 Price = price,
-                                ProductsoortId = productid
+                                ProductsoortId = productsid
                             };
 
                             _context.Productwaarde.Add(productwaarde);
                             _context.SaveChanges();
+
+                             var extrattributen = new List<string>();
+                             for (int recor = 3; recor < record.Length; recor++)
+                                { 
+                                    extrattributen.Add(record[recor]);
+                                }
+                             var extraatributenarray = extrattributen.ToArray();
+                            
+
+                            var productwaardequery = from a in _context.Productwaarde where a.Title == title select a;
+                                foreach (var q in query){
+                                    id = q.Id;
+                                }
+
+                                var attributenid = new List<int>();
+                                var queryatrsid = from a in _context.Attribuutsoort where a.ProductsoortId == productsid select a;
+                                foreach (var q in queryatrsid){
+                                attributenid.Add(q.Id);
+                                }
+                                
+                                //atributenid
+                                var atributenidarray = attributenid.ToArray();
+
+                             for (int index = 0; index < atributenidarray.Length; index++){
+                              Attribuutwaarde attribuutwaarde = new Attribuutwaarde{
+                                  ProductwaardeId = id,
+                                  AttribuutsoortId = atributenidarray[index],
+                                  Waarde = extraatributenarray[index]
+                              };
+                              _context.Attribuutwaarde.Add(attribuutwaarde);
+                            _context.SaveChanges();
+                            }
                             }
                             
                             
