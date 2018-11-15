@@ -4766,10 +4766,11 @@
       ]
     },
     "IdentityServer4.AspNetIdentity/2.1.0": {
-      "sha512": "r1QXwLW11a4+BxTy/2GUFzAYLAulKQhMSDs/fFCai6r1oH0btv6Dw7lvDNyh8wn0oeonMQvxxzJKzLbMqYZcNw==",
+      "sha512": "A5Od86dsgMkdjKXo489ocaxTv9WifZFK1uOMxjaFykvF74AtPPyuuGCGclAYmOeAXP4ubmuaA8MTRDyB6N1W1A==",
       "type": "package",
       "path": "identityserver4.aspnetidentity/2.1.0",
       "files": [
+        ".signature.p7s",
         "identityserver4.aspnetidentity.2.1.0.nupkg.sha512",
         "identityserver4.aspnetidentity.nuspec",
         "lib/netstandard2.0/IdentityServer4.AspNetIdentity.dll",
@@ -12642,30 +12643,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Okan Emeni\\.nuget\\packages\\": {},
+    "C:\\Users\\geord\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
+      "projectUniqueName": "C:\\Projects\\project_webshop\\klaas.csproj",
       "projectName": "klaas",
-      "projectPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\klaas.csproj",
-      "packagesPath": "C:\\Users\\Okan Emeni\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Okan Emeni\\RiderProjects\\hr-projectc-webshop\\obj\\",
+      "projectPath": "C:\\Projects\\project_webshop\\klaas.csproj",
+      "packagesPath": "C:\\Users\\geord\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\project_webshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Okan Emeni\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\geord\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
